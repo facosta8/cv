@@ -1,0 +1,260 @@
+---
+title: "Francisco Acosta CV"
+author: Francisco Acosta
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ["resume.css"]
+---
+
+Aside
+================================================================================
+
+![Eric Scott](graphics/photo.png){width=80%}
+
+Soy un científico de datos, con amplia experiencia en temas de biología y salud. Mi meta profesional es aplicar mis habilidades en proyectos con impacto social.
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> facosta8@gmail.com
+- <i class="fa fa-github"></i> [github.com/facosta](https://github.com/facosta8)
+- <i class="fa fa-phone"></i> (+52) 55 48 54 82 56
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Desarrollo de modelos matemáticos y desarrollo de modelos
+
+- Implementación de modelos de predicción usando aprendizaje de máquina
+
+- Minería de datos
+
+- Manejo y administración de bases de datos
+
+- Uso de software para análisis genómicos
+
+- Implementación de soluciones con Python, R, Matlab, C++ y SQL
+
+- Amazon Web Services, Github y otras plataformas
+
+- Dominio del inglés 100%
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+<!-- Last updated on `r Sys.Date()`. -->
+
+
+
+Main
+================================================================================
+
+Francisco José &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Acosta Espinosa {#title}
+--------------------------------------------------------------------------------
+
+### Científico de datos, biólogo
+
+
+Educación {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Maestría en ciencia de datos
+
+Instituto Tecnológico Autónomo de México
+
+CDMX
+
+2018- -2019
+
+- Desarrollo de modelos de aprendizaje de máquina en Python y R
+- Proyectos finales de predicción de indicadores económicos y redes genéticas.
+
+### Maestría en ciencias del mar
+
+King Abdullah University of Science and Technology
+
+Arabia Saudita
+
+2010- -2012
+
+- Desarrollo de modelos evolutivos de microorganismos marinos utilizando métodos bayesianos
+- Análisis de comunidades de microorganismos en sistemas UNIX
+
+### Licenciatura en biología
+
+Universidad de las Américas Puebla
+
+Cholula, Puebla
+
+2002- -2007
+
+- Tesis acerca de la detección clínica del virus de la influenza humana
+- Graduación con honores *Cum Laude* y mención honorífica por parte del comité de tesis
+
+Experiencia laboral {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### Coordinador editorial
+
+Editorial La Hoja en Blanco
+
+CDMX
+
+2017- -2018
+
+- Análisis de datos e integración de contenidos
+- Desarrollo de aplicaciones web y para dispositivos Android
+
+### Colaborador en corrección-redacción &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de instrumentos de evaluación
+
+Centro Nacional de Evaluación para la Educación Superior
+
+CDMX
+
+2016- -2018
+
+- Revisión, corrección editorial y validación de instrumentos de evaluación docente
+
+### Investigador de posgrado y asistente de enseñanza
+
+University of Oklahoma
+
+Norman, EUA
+
+2013- -2015
+
+- Investigación en genómica y genética de microorganismos
+- Desarrollo de modelos estadísticos para análisis de comunidades
+- Análisis estadístico para estudios de supervivencia
+
+### Jefe de departamento de la &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dirección de Servicios Médicos
+
+Secretaría de Seguridad Pública
+
+CDMX
+
+2008- -2010
+
+- Administración de bases de datos para los programas de detección y tratamiento de enfermedades virales crónicas
+- Campañas de salud para empleados de la Secretaría
+- Miembro del comité organizador del segundo y tercer Congreso Nacional de Medicina Penitenciaria
+
+&nbsp;
+
+&nbsp;
+
+Publicaciones y congresos {data-icon=file}
+--------------------------------------------------------------------------------
+
+### *Population genetic structure and fitness of Daphnia pulicaria across a pH gradient in three North American lakes*
+
+Hydrobiologia, vol. 85, núm. 1  &nbsp;  &nbsp; &nbsp;  [doi:10.1007/s10750-017-3316-y](http://doi.org/10.1007/s10750-017-3316-y)
+
+N/A
+
+2016
+
+Billy W Culver & **Francisco Acosta**
+
+### Conferencia *Intra-individual heterogeneity in Prymnesium parvum ITS1 regions and its implications for the biogeography of a recent US invasion*
+
+8th Symposium on Harmful Algae in the US
+
+N/A
+
+2015
+
+### *Dynamics of an experimental microbial invasion*
+
+Proceedings of the National Academy of Sciences of the United States of America, vol. 112, núm. 37  &nbsp;  &nbsp; &nbsp; [doi:10.1073/pnas.1505204112](https://doi.org/10.1073/pnas.1505204112)
+
+N/A
+
+2015
+
+**Francisco Acosta**, Richard M Zamor, Fares Z Najar, Bruce A Roe & K David Hambright
+
+### *Diversity of picoeukaryotes at an oligotrophic site off the Northeastern Red Sea Coast*
+
+Aquatic Biosystems, vol. 9, núm. 1  &nbsp; &nbsp; &nbsp;  [doi:10.1186/2046-9063-9-16](https://doi.org/10.1186/2046-9063-9-16)
+
+N/A
+
+2013
+
+**Francisco Acosta**, David K Ngugi & Ulrich Stingl
+
+### Póster *Diversity of picoeukaryotes in the northern Red Sea*
+
+14th Symposium of the International Society for Microbial Ecology
+
+N/A
+
+2012
+
+Reconocimientos {data-icon=award}
+--------------------------------------------------------------------------------
+
+### Segundo lugar de la competencia estudiantil de publicaciones científicas de la Sociedad Internacional de Limnología.
+
+Premio otorgado por el artículo *Dynamics of an experimental microbial invasion*
+
+N/A
+
+2016
+
+### University of Oklahoma Alumni Fellowship 
+
+Beca de excelencia para estudios de posgrado.
+
+N/A
+
+2013
+
+### Beca de Excelencia Jenkins
+
+Beca de excelencia para estudios de licenciatura, otorgada por la Fundación Mary Street Jenkins.
+
+N/A
+
+2002
+
+
+Referencias {data-icon=users}
+--------------------------------------------------------------------------------
+
+### Dr. Benjamín Gutiérrez García
+
+Profesor visitante del ITAM
+
+N/A
+
+N/A
+
+benjamin.gutierrez@itam.mx
+
+### Lic. Juan Alberto Nava Cortez
+
+Director general de la editorial La Hoja en Blanco
+
+N/A
+
+N/A
+
+albertonava.editor@gmail.com
+ 
+### Dr. K David Hambright
+
+Profesor de Biología en la University of Oklahoma
+
+N/A
+
+N/A
+
+dhambright@ou.edu
