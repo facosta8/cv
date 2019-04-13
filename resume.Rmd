@@ -14,7 +14,9 @@ Aside
 
 ![Eric Scott](graphics/photo.png){width=80%}
 
-Soy un científico de datos, con amplia experiencia en temas de biología y salud. Mi meta profesional es aplicar mis habilidades en proyectos con impacto social.
+<!-- Soy un científico de datos, con amplia experiencia en temas de biología y salud. Mi meta profesional es aplicar mis habilidades en proyectos con impacto social. -->
+
+Mi meta profesional es aprovechar mis conocimientos en informática y estadística en el desarrollo de modelos y soluciones para sistemas complejos.
 
 Contacto {#contact}
 --------------------------------------------------------------------------------
