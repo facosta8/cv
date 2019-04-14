@@ -28,7 +28,7 @@ Contacto {#contact}
 Habilidades {#skills}
 --------------------------------------------------------------------------------
 
-- Desarrollo de modelos matemáticos y desarrollo de modelos
+- Desarrollo de modelos matemáticos y análisis estadístico multivariado
 
 - Implementación de modelos de predicción usando aprendizaje de máquina
 
