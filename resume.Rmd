@@ -102,6 +102,16 @@ Cholula, Puebla
 Experiencia laboral {data-icon=briefcase}
 --------------------------------------------------------------------------------
 
+### Data science internship
+
+Cinépolis
+
+CDMX
+
+2019
+
+- Desarrollo e implementación de modelos predictivos de demanda
+
 ### Coordinador editorial
 
 Editorial La Hoja en Blanco
@@ -144,12 +154,7 @@ CDMX
 2008- -2010
 
 - Administración de bases de datos para los programas de detección y tratamiento de enfermedades virales crónicas
-- Campañas de salud para empleados de la Secretaría
 - Miembro del comité organizador del segundo y tercer Congreso Nacional de Medicina Penitenciaria
-
-&nbsp;
-
-&nbsp;
 
 Publicaciones y congresos {data-icon=file}
 --------------------------------------------------------------------------------
