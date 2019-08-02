@@ -14,7 +14,7 @@ Aside
 
 ![Eric Scott](graphics/photo.png){width=80%}
 
-Soy un científico de datos, con amplia experiencia en temas de biología y salud. Mi meta profesional es aplicar mis habilidades en proyectos con impacto social.
+Soy un científico de datos, con amplia experiencia en temas de biología, salud y modelaje estadístico. Mi meta profesional es aplicar mis habilidades en proyectos con impacto social.
 
 Contacto {#contact}
 --------------------------------------------------------------------------------
@@ -38,9 +38,7 @@ Habilidades {#skills}
 
 - Implementación de soluciones con Python, R, Matlab, C++ y SQL
 
-- Amazon Web Services, Github y otras plataformas
-
-- Dominio del inglés 100%
+- Inglés 100%
 
 
 Disclaimer {#disclaimer}
@@ -73,7 +71,7 @@ CDMX
 2018- -2019
 
 - Desarrollo de modelos de aprendizaje de máquina en Python y R
-- Proyectos finales de predicción de indicadores económicos y redes genéticas.
+- Proyectos de predicción de indicadores económicos y anáisis de redes genéticas.
 
 ### Maestría en ciencias del mar
 
@@ -83,7 +81,7 @@ Arabia Saudita
 
 2010- -2012
 
-- Desarrollo de modelos evolutivos de microorganismos marinos utilizando métodos bayesianos
+- Desarrollo de modelos evolutivos de microorganismos marinos
 - Análisis de comunidades de microorganismos en sistemas UNIX
 
 ### Licenciatura en biología
@@ -95,10 +93,20 @@ Cholula, Puebla
 2002- -2007
 
 - Tesis acerca de la detección clínica del virus de la influenza humana
-- Graduación con honores *Cum Laude* y mención honorífica por parte del comité de tesis
+- Graduación con honores *Cum Laude* y tesis con mención honorífica
 
 Experiencia laboral {data-icon=briefcase}
 --------------------------------------------------------------------------------
+
+### Data science internship
+
+Cinépolis
+
+CDMX
+
+2019
+
+- Desarrollo e implementación de modelos predictivos de demanda a nivel nacional y local
 
 ### Coordinador editorial
 
@@ -119,7 +127,7 @@ CDMX
 
 2016- -2018
 
-- Revisión, corrección editorial y validación de instrumentos de evaluación docente
+- Revisión y corrección editorial de instrumentos de evaluación docente
 
 ### Investigador de posgrado y asistente de enseñanza
 
@@ -142,7 +150,6 @@ CDMX
 2008- -2010
 
 - Administración de bases de datos para los programas de detección y tratamiento de enfermedades virales crónicas
-- Campañas de salud para empleados de la Secretaría
 - Miembro del comité organizador del segundo y tercer Congreso Nacional de Medicina Penitenciaria
 
 &nbsp;

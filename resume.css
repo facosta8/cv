@@ -1,6 +1,6 @@
 @page{
   size: letter portrait;
-  margin: 0.8in 0.5in 0.8in 0.25in;
+  margin: 0.8in 0.5in 0.6in 0.25in;
 }
 
 *{
@@ -8,7 +8,7 @@
 }
 
 :root{
-  --page-width: 8.5in;
+  --page-width: 8.6in;
   --margin-right: 0.5in;
   --margin-left: 0.25in;
   --content-width: calc(var(--page-width) - var(--margin-right) - var(--margin-left));
